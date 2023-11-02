@@ -1,5 +1,5 @@
 import AcmeLogo from '@/app/ui/acme-logo';
-
+// todo check out style with tailwind css
 import Link from 'next/link';
 export default function Page() {
   return (
